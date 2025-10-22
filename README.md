@@ -51,6 +51,8 @@ Data Modeling and Visualization Techniques
 4. High discounts increased sales but reduced overall profit margins.
 5. Returning customers showed higher average order value than new ones.
 
+<img width="1301" height="730" alt="Screenshot 2025-10-23 003236" src="https://github.com/user-attachments/assets/e5490804-2c3c-4184-af5b-cd2dc2fd9a22" />
+
 
 
 
